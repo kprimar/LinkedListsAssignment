@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mentorship\\LinkedList_assignment\\LinkedLists\\LinkedLists.csproj": {}
+    "D:\\Projects\\Mentorship\\LinkedListsAssignment\\LinkedLists.csproj": {}
   },
   "projects": {
-    "D:\\Mentorship\\LinkedList_assignment\\LinkedLists\\LinkedLists.csproj": {
+    "D:\\Projects\\Mentorship\\LinkedListsAssignment\\LinkedLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mentorship\\LinkedList_assignment\\LinkedLists\\LinkedLists.csproj",
+        "projectUniqueName": "D:\\Projects\\Mentorship\\LinkedListsAssignment\\LinkedLists.csproj",
         "projectName": "LinkedLists",
-        "projectPath": "D:\\Mentorship\\LinkedList_assignment\\LinkedLists\\LinkedLists.csproj",
+        "projectPath": "D:\\Projects\\Mentorship\\LinkedListsAssignment\\LinkedLists.csproj",
         "packagesPath": "C:\\Users\\Kelsey\\.nuget\\packages\\",
-        "outputPath": "D:\\Mentorship\\LinkedList_assignment\\LinkedLists\\obj\\",
+        "outputPath": "D:\\Projects\\Mentorship\\LinkedListsAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kelsey\\AppData\\Roaming\\NuGet\\NuGet.Config",

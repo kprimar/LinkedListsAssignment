@@ -9,3 +9,14 @@ D:\Mentorship\LinkedList_assignment\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLi
 D:\Mentorship\LinkedList_assignment\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.pdb
 D:\Mentorship\LinkedList_assignment\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.dll
 D:\Mentorship\LinkedList_assignment\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.pdb
+D:\Projects\Mentorship\LinkedListsAssignment\bin\Debug\netcoreapp3.1\LinkedLists.exe
+D:\Projects\Mentorship\LinkedListsAssignment\bin\Debug\netcoreapp3.1\LinkedLists.deps.json
+D:\Projects\Mentorship\LinkedListsAssignment\bin\Debug\netcoreapp3.1\LinkedLists.runtimeconfig.json
+D:\Projects\Mentorship\LinkedListsAssignment\bin\Debug\netcoreapp3.1\LinkedLists.runtimeconfig.dev.json
+D:\Projects\Mentorship\LinkedListsAssignment\bin\Debug\netcoreapp3.1\LinkedLists.dll
+D:\Projects\Mentorship\LinkedListsAssignment\bin\Debug\netcoreapp3.1\LinkedLists.pdb
+D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists.csprojAssemblyReference.cache
+D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfoInputs.cache
+D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfo.cs
+D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists.dll
+D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists.pdb
