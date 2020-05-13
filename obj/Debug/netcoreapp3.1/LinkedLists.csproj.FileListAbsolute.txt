@@ -1,0 +1,11 @@
+D:\Mentorship\LinkedList_assignment\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.csprojAssemblyReference.cache
+D:\Mentorship\LinkedList_assignment\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfoInputs.cache
+D:\Mentorship\LinkedList_assignment\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfo.cs
+D:\Mentorship\LinkedList_assignment\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.exe
+D:\Mentorship\LinkedList_assignment\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.deps.json
+D:\Mentorship\LinkedList_assignment\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.runtimeconfig.json
+D:\Mentorship\LinkedList_assignment\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.runtimeconfig.dev.json
+D:\Mentorship\LinkedList_assignment\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.dll
+D:\Mentorship\LinkedList_assignment\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.pdb
+D:\Mentorship\LinkedList_assignment\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.dll
+D:\Mentorship\LinkedList_assignment\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.pdb
