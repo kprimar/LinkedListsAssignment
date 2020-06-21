@@ -20,3 +20,5 @@ D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists
 D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfo.cs
 D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists.dll
 D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists.pdb
+D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists.csproj.CoreCompileInputs.cache
+D:\Projects\Mentorship\LinkedListsAssignment\obj\Debug\netcoreapp3.1\LinkedLists.genruntimeconfig.cache

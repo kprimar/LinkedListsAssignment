@@ -7,22 +7,7 @@ namespace LinkedLists
     {
         static void Main(string[] args)
         {
-            //TESTING
-            LinkedList myList = new LinkedList();
-            myList.append(0);
-            myList.append(6);
-            myList.append(2);
-            myList.append(3);
-            Console.WriteLine(myList.listLength); 
-            myList.DeleteAtIndex(1);
-            Console.WriteLine(myList.listLength); 
-            myList.DeleteByData(3);
-            Console.WriteLine(myList.listLength);
-            myList.DeleteByData(7);
-            Console.WriteLine(myList.listLength);
 
-            myList.append(7);
-            Console.WriteLine(myList.listLength);
         }
     }
 
@@ -39,7 +24,8 @@ namespace LinkedLists
     public class LinkedList
     {
         public Node head;
-        public int listLength;
+        public static Node current;
+        public static int listLength;
         public void append(int data)
         {
             if (head == null)
@@ -81,6 +67,7 @@ namespace LinkedLists
         }
         public void DeleteAtIndex(int index)
         {
+            if (head == null) return;
             Node current = head;
             int currentNodeIndex = 0;
             if (currentNodeIndex == index)
@@ -89,21 +76,12 @@ namespace LinkedLists
                 listLength--;
                 return;
             }
-            while (currentNodeIndex < index)
+            for (currentNodeIndex = 1; currentNodeIndex < index; currentNodeIndex++)
             {
-                currentNodeIndex++;
-                current = current.next;
-                if (currentNodeIndex == index)
-                {
-                    current.next = current.next.next;
-                    listLength--;
-                }
                 current = current.next;
             }
+            current.next = current.next.next;
+            listLength--;
+        }
         }
     }
-
-
-
-
-}
